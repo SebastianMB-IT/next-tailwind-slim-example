@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name": "Schiphol Airport",
+    "code": "AMS",
+    "lat": "52.3122",
+    "lng": "4.77511"
+  },
+  {
+    "id": "2",
+    "name": "Bologna Airport",
+    "code": "BLQ",
+    "lat": "4.5345",
+    "lng": "11.2903"
+  },
+  {
+    "id": "3",
+    "name": "London Heathrow Airport",
+    "code": "LHR",
+    "lat": "51.4703",
+    "lng": "-0.45342"
+  },
+  {
+    "id": "4",
+    "name": "Charles de Gaulle International Airport",
+    "code": "CDG",
+    "lat": "49.0175",
+    "lng": "2.5564"
+  },
+  {
+    "id": "5",
+    "name": "Frankfurt International Airport",
+    "code": "FRA",
+    "lat": "50.0483",
+    "lng": "8.57041"
+  },
+  {
+    "id": "6",
+    "name": "Barcelona International Airport",
+    "code": "BCN",
+    "lat": "41.3006",
+    "lng": "2.07976"
+  },
+  {
+    "id": "7",
+    "name": "Leonardo da Vinci International Airport",
+    "code": "FCO",
+    "lat": "41.8026",
+    "lng": "12.2551"
+  },
+  {
+    "id": "8",
+    "name": "Angelholm Airport",
+    "code": "AGH",
+    "lat": "56.2873",
+    "lng": "12.8675"
+  },
+  {
+    "id": "9",
+    "name": "Dublin Airport",
+    "code": "DUB",
+    "lat": "53.4272",
+    "lng": "-6.24418"
+  },
+  {
+    "id": "10",
+    "name": "Copenhagen Airport",
+    "code": "CPH",
+    "lat": "55.6205",
+    "lng": "12.6495"
+  },
+  {
+    "id": "11",
+    "name": "Franz-Josef-Strauss Airport",
+    "code": "MUC",
+    "lat": "48.354",
+    "lng": "11.7816"
+  },
+  {
+    "id": "12",
+    "name": "Lisbon Airport",
+    "code": "LIS",
+    "lat": "38.7701",
+    "lng": "-9.13775"
+  },
+  {
+    "id": "13",
+    "name": "Arlanda Airport",
+    "code": "ARN",
+    "lat": "59.6521",
+    "lng": "17.9317"
+  },
+  {
+    "id": "14",
+    "name": "Brussels Airport",
+    "code": "BRU",
+    "lat": "50.899",
+    "lng": "4.4859"
+  },
+  {
+    "id": "15",
+    "name": "Geneva Airport",
+    "code": "GVA",
+    "lat": "46.2329",
+    "lng": "6.10682"
+  },
+  {
+    "id": "16",
+    "name": "Ferihegy Airport",
+    "code": "BUD",
+    "lat": "46.2329",
+    "lng": "19.2195"
+  },
+  {
+    "id": "17",
+    "name": "Malpensa International Airport",
+    "code": "MXP",
+    "lat": "45.6314",
+    "lng": "8.72284"
+  },
+  {
+    "id": "18",
+    "name": "Aeroportul National Bucuresti-Baneasa",
+    "code": "BBU",
+    "lat": "44.4966",
+    "lng": "26.087"
+  },
+  {
+    "id": "19",
+    "name": "Eleftherios Venizelos International Airport",
+    "code": "ATH",
+    "lat": "37.8937",
+    "lng": "23.7235"
+  },
+  {
+    "id": "20",
+    "name": "Manchester International Airport",
+    "code": "MAN",
+    "lat": "53.365",
+    "lng": "-2.27089"
+  }
+]

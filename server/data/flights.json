@@ -1,0 +1,445 @@
+[{
+    "code_departure": "BLQ",
+    "code_arrival": "LHR",
+    "price": "123"
+},
+{
+    "code_departure": "BLQ",
+    "code_arrival": "MAN",
+    "price": "62"
+},
+{
+    "code_departure": "BLQ",
+    "code_arrival": "LIS",
+    "price": "10"
+},
+{
+    "code_departure": "BLQ",
+    "code_arrival": "BRU",
+    "price": "210"
+},
+{
+    "code_departure": "BLQ",
+    "code_arrival": "CDG",
+    "price": "126"
+},
+{
+    "code_departure": "BLQ",
+    "code_arrival": "CDG",
+    "price": "126"
+},
+{
+    "code_departure": "AMS",
+    "code_arrival": "CDG",
+    "price": "220"
+},
+{
+    "code_departure": "AMS",
+    "code_arrival": "BCN",
+    "price": "100"
+},
+{
+    "code_departure": "AMS",
+    "code_arrival": "FCO",
+    "price": "120"
+},
+{
+    "code_departure": "AMS",
+    "code_arrival": "DUB",
+    "price": "180"
+},
+{
+    "code_departure": "AMS",
+    "code_arrival": "LHR",
+    "price": "135"
+},
+{
+    "code_departure": "LHR",
+    "code_arrival": "CPH",
+    "price": "135"
+},
+{
+    "code_departure": "LHR",
+    "code_arrival": "FRA",
+    "price": "158"
+},
+{
+    "code_departure": "LHR",
+    "code_arrival": "BCN",
+    "price": "170"
+},
+{
+    "code_departure": "LHR",
+    "code_arrival": "AGH",
+    "price": "185"
+},
+{
+    "code_departure": "LHR",
+    "code_arrival": "DUB",
+    "price": "230"
+},
+{
+    "code_departure": "GDG",
+    "code_arrival": "FRA",
+    "price": "230"
+},
+{
+    "code_departure": "FRA",
+    "code_arrival": "BCN",
+    "price": "89"
+},
+{
+    "code_departure": "BCN",
+    "code_arrival": "DUB",
+    "price": "120"
+},
+{
+    "code_departure": "BCN",
+    "code_arrival": "CPH",
+    "price": "200"
+},
+{
+    "code_departure": "BCN",
+    "code_arrival": "LIS",
+    "price": "250"
+},
+{
+    "code_departure": "BCN",
+    "code_arrival": "MAN",
+    "price": "280"
+},
+{
+    "code_departure": "BCN",
+    "code_arrival": "CDG",
+    "price": "320"
+},
+{
+    "code_departure": "FCO",
+    "code_arrival": "DUB",
+    "price": "98"
+},
+{
+    "code_departure": "FCO",
+    "code_arrival": "BUD",
+    "price": "80"
+},
+{
+    "code_departure": "FCO",
+    "code_arrival": "MXP",
+    "price": "120"
+},
+{
+    "code_departure": "FCO",
+    "code_arrival": "ATH",
+    "price": "125"
+},
+{
+    "code_departure": "FCO",
+    "code_arrival": "MAN",
+    "price": "135"
+},
+{
+    "code_departure": "AGH",
+    "code_arrival": "CPH",
+    "price": "60"
+},
+{
+    "code_departure": "AGH",
+    "code_arrival": "LIS",
+    "price": "300"
+},
+{
+    "code_departure": "AGH",
+    "code_arrival": "FCO",
+    "price": "220"
+},
+{
+    "code_departure": "AGH",
+    "code_arrival": "ATH",
+    "price": "286"
+},
+{
+    "code_departure": "AGH",
+    "code_arrival": "AMS",
+    "price": "201"
+},
+{
+    "code_departure": "DUB",
+    "code_arrival": "FRA",
+    "price": "62"
+},
+{
+    "code_departure": "DUB",
+    "code_arrival": "BCN",
+    "price": "301"
+},
+{
+    "code_departure": "DUB",
+    "code_arrival": "AMS",
+    "price": "221"
+},
+{
+    "code_departure": "DUB",
+    "code_arrival": "CPH",
+    "price": "290"
+},
+{
+    "code_departure": "DUB",
+    "code_arrival": "BRU",
+    "price": "201"
+},
+{
+    "code_departure": "CPH",
+    "code_arrival": "FRA",
+    "price": "60"
+},
+{
+    "code_departure": "CPH",
+    "code_arrival": "BCN",
+    "price": "300"
+},
+{
+    "code_departure": "CPH",
+    "code_arrival": "DUB",
+    "price": "220"
+},
+{
+    "code_departure": "CPH",
+    "code_arrival": "CPH",
+    "price": "286"
+},
+{
+    "code_departure": "CPH",
+    "code_arrival": "BRU",
+    "price": "201"
+},
+{
+    "code_departure": "MUC",
+    "code_arrival": "FCO",
+    "price": "36"
+},
+{
+    "code_departure": "MUC",
+    "code_arrival": "BCN",
+    "price": "254"
+},
+{
+    "code_departure": "MUC",
+    "code_arrival": "CDG",
+    "price": "320"
+},
+{
+    "code_departure": "MUC",
+    "code_arrival": "ATH",
+    "price": "269"
+},
+{
+    "code_departure": "MUC",
+    "code_arrival": "MAN",
+    "price": "304"
+},
+{
+    "code_departure": "LIS",
+    "code_arrival": "CDG",
+    "price": "48"
+},
+{
+    "code_departure": "LIS",
+    "code_arrival": "LHR",
+    "price": "10"
+},
+{
+    "code_departure": "LIS",
+    "code_arrival": "AMS",
+    "price": "199"
+},
+{
+    "code_departure": "LIS",
+    "code_arrival": "BLQ",
+    "price": "250"
+},
+{
+    "code_departure": "LIS",
+    "code_arrival": "GVA",
+    "price": "130"
+},
+{
+    "code_departure": "ARN",
+    "code_arrival": "BRU",
+    "price": "147"
+},
+{
+    "code_departure": "ARN",
+    "code_arrival": "BUD",
+    "price": "127"
+},
+{
+    "code_departure": "ARN",
+    "code_arrival": "MXP",
+    "price": "137"
+},
+{
+    "code_departure": "ARN",
+    "code_arrival": "BLQ",
+    "price": "189"
+},
+{
+    "code_departure": "ARN",
+    "code_arrival": "BBU",
+    "price": "187"
+},
+{
+    "code_departure": "BRU",
+    "code_arrival": "BUD",
+    "price": "106"
+},
+{
+    "code_departure": "BRU",
+    "code_arrival": "ARN",
+    "price": "116"
+},
+{
+    "code_departure": "BRU",
+    "code_arrival": "LIS",
+    "price": "126"
+},
+{
+    "code_departure": "BRU",
+    "code_arrival": "AGH",
+    "price": "136"
+},
+{
+    "code_departure": "BRU",
+    "code_arrival": "BCN",
+    "price": "146"
+},
+{
+    "code_departure": "GVA",
+    "code_arrival": "BUD",
+    "price": "181"
+},
+{
+    "code_departure": "GVA",
+    "code_arrival": "BBU",
+    "price": "182"
+},
+{
+    "code_departure": "GVA",
+    "code_arrival": "ATH",
+    "price": "183"
+},
+{
+    "code_departure": "GVA",
+    "code_arrival": "MAN",
+    "price": "184"
+},
+{
+    "code_departure": "GVA",
+    "code_arrival": "AGH",
+    "price": "185"
+},
+{
+    "code_departure": "BUD",
+    "code_arrival": "AMS",
+    "price": "79"
+},
+{
+    "code_departure": "MXP",
+    "code_arrival": "BBU",
+    "price": "220"
+},
+{
+    "code_departure": "MXP",
+    "code_arrival": "ATH",
+    "price": "221"
+},
+{
+    "code_departure": "MXP",
+    "code_arrival": "MAN",
+    "price": "222"
+},
+{
+    "code_departure": "MXP",
+    "code_arrival": "MUC",
+    "price": "223"
+},
+{
+    "code_departure": "MXP",
+    "code_arrival": "LIS",
+    "price": "224"
+},
+{
+    "code_departure": "BBU",
+    "code_arrival": "AMS",
+    "price": "172"
+},
+{
+    "code_departure": "BBU",
+    "code_arrival": "BLQ",
+    "price": "55"
+},
+{
+    "code_departure": "BBU",
+    "code_arrival": "FRA",
+    "price": "70"
+},
+{
+    "code_departure": "BBU",
+    "code_arrival": "FCO",
+    "price": "121"
+},
+{
+    "code_departure": "BBU",
+    "code_arrival": "DUB",
+    "price": "50"
+},
+{
+    "code_departure": "ATH",
+    "code_arrival": "BBU",
+    "price": "177"
+},
+{
+    "code_departure": "ATH",
+    "code_arrival": "MXP",
+    "price": "188"
+},
+{
+    "code_departure": "ATH",
+    "code_arrival": "GVA",
+    "price": "199"
+},
+{
+    "code_departure": "ATH",
+    "code_arrival": "BRU",
+    "price": "166"
+},
+{
+    "code_departure": "ATH",
+    "code_arrival": "ARN",
+    "price": "155"
+},
+{
+    "code_departure": "MAN",
+    "code_arrival": "LHR",
+    "price": "155"
+},
+{
+    "code_departure": "MAN",
+    "code_arrival": "GVA",
+    "price": "154"
+},
+{
+    "code_departure": "MAN",
+    "code_arrival": "BRU",
+    "price": "153"
+},
+{
+    "code_departure": "MAN",
+    "code_arrival": "ARN",
+    "price": "143"
+},
+{
+    "code_departure": "MAN",
+    "code_arrival": "CPH",
+    "price": "142"
+}]
