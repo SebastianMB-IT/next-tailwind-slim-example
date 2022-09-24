@@ -9,4 +9,4 @@ cd server/public && php -S localhost:8888
 cd client && npm start
 ```
 **Notes**
-- Data is stored in ```/server/data/airports.json``` and ```/server/data/flights.json```
+- Data are stored in ```/server/data/airports.json``` and ```/server/data/flights.json```
